@@ -1,5 +1,9 @@
 # Hi :wave:
 
+I'm enraptured by mathematics, electronics, and software development. In my free time I love to ski!
+
+**[Resume](./RESUME.pdf)**
+
 ## Projects
 
 [**Algorithms and Data Structures**][algorithms-and-data-structures]  

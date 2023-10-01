@@ -36,8 +36,8 @@ An Obsidian plugin to display short internal links.
 [**Project Euler Solutions**][project-euler-solutions]  
 My solutions to Project Euler problems in Python.
 
-[**Visual Studio Code Experiments**][vscode-experiments]  
-My incubator for new Visual Studio Code extension ideas.
+[**Visual Studio Code Extensions**][vscode-extensions]  
+A repository of my Visual Studio Code extensions.
 
 [algorithms-and-data-structures]: https://github.com/scottwillmoore/algorithms-and-data-structures
 [employment-documents]: https://github.com/scottwillmoore/employment-documents
@@ -49,4 +49,4 @@ My incubator for new Visual Studio Code extension ideas.
 [nix-configurations]: https://github.com/scottwillmoore/nix-configurations
 [obsidian-short-links]: https://github.com/scottwillmoore/obsidian-short-links
 [project-euler-solutions]: https://github.com/scottwillmoore/project-euler-solutions
-[vscode-experiments]: https://github.com/scottwillmoore/vscode-experiments
+[vscode-extensions]: https://github.com/scottwillmoore/vscode-extensions
